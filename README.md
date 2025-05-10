@@ -13,9 +13,8 @@ I also strive to write **readable & maintainable code** so that anyone can under
 <br>
 
 ## 🏗️ **What I'm working on**  
-- Working on a **hotel booking app**, learning about **CRUD operations and authentication**.  
+- Learning on a **Rails Tutorial7**.
 - Developing **"酔いの地図帳"**, a bar exploration web app.  
-- Experimenting with **data structuring** and **efficient code design**.  
 <br>
 
 ## 🌱 Skills
