@@ -18,7 +18,7 @@ I also strive to write **readable & maintainable code** so that anyone can under
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ruby,rails,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ruby,rails,docker,vscode" />
 <br>
 
 ## 🏃‍♀️ Languages
