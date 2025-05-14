@@ -13,8 +13,14 @@ I also strive to write **readable & maintainable code** so that anyone can under
 <br>
 
 ## 🏗️ **What I'm working on**  
-- Learning on a **Rails Tutorial7**.
+- Learning on a **Rails Tutorial**.
 - Developing **"酔いの地図帳"**, a bar exploration web app.  
+<br>
+
+## 📚 Rails Tutorial Practice
+[![Org](https://img.shields.io/badge/Rails%20Tutorial%20Org-x0377--tutorial?style=flat&logo=rubyonrails&logoColor=white&labelColor=CC0000&color=F2DADF)](https://github.com/Rails-Tutorial7)
+
+Learning logs & sample apps for the **Ruby on Rails Tutorial (7th Ed.)**  
 <br>
 
 ## 🌱 Skills
