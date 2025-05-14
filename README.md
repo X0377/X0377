@@ -14,7 +14,7 @@ I also strive to write **readable & maintainable code** so that anyone can under
 
 ## 🏗️ **What I'm working on**  
 - Learning on a **Rails Tutorial**.
-- Developing **"酔いの地図帳"**, a bar exploration web app.  
+- Developing **"酔いの地図帳"**, a bar exploration web app.
 <br>
 
 ## 📚 Rails Tutorial Practice
